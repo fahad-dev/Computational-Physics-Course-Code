@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Oct  5 14:58:13 2021
-
-@author: computer
-"""
+# This code generates isotherms for the Van Der Waals gas equation at some specified temperatures.
 
 
 import matplotlib.pylab as plt
