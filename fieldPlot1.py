@@ -1,10 +1,4 @@
-# Computational Exercise 1 for PHYS*2330 - Fall 2021
-# fieldPlot.py - scaffold code
-#
-# HEY!  Notice there is a fair bit of un-commented code here?
-#       It's worth looking at some of these functions/operations and seeing
-#       if you can make sense of them, or look up the documentation online!
-# MVM
+# The Python files fieldPlot1 and fieldPlot2 generate vector and field plots for a specific configuration of charges in space.
 #------------------------------------------------------------------------------
 
 
