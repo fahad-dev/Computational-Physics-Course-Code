@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# This code generates isotherms for the Van Der Waals gas equation at some specified temperatures.
+# This code generates one scatter plot for two Einstein solids and another plot for a combination of them, in terms of the energy distribution of the solids in some range of energy levels.
 """
 Created on Thu Oct 28 12:35:16 2021
 
