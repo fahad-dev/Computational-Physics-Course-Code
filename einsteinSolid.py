@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+# This code generates isotherms for the Van Der Waals gas equation at some specified temperatures.
 """
 Created on Thu Oct 28 12:35:16 2021
 
